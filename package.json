@@ -1,0 +1,14 @@
+{
+    "name": "tslint-haezl-node",
+    "version": "1.2.0",
+    "description": "set of tslint rules targeted to side or hobby projects",
+    "main": "tslint.json",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Markus Hösel",
+    "license": "MIT",
+    "dependencies": {
+        "tslint-microsoft-contrib": "^6.2.0"
+    }
+}
