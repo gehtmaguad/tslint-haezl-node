@@ -24,6 +24,7 @@
         ],
         "missing-jsdoc": false,
         "no-any": false,
+        "no-backbone-get-set-outside-model": false, // only enable this if you have backbone.js
         "no-console": false,
         "no-default-export": false,
         "no-floating-promises": true,
